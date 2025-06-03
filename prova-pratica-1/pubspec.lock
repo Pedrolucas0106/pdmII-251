@@ -422,4 +422,4 @@ sdks:
 dependencies:
   flutter:
     sdk: flutter
-  mailer: ^6.2.4   # ou a versão mais recente que achar no pub.dev
+  mailer: ^6.2.4   
